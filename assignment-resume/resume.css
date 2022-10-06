@@ -1,0 +1,46 @@
+div#imgintro{
+    display: inline-block;
+
+}
+img{
+    width: 18%;
+}
+
+img.img{
+    display:inline-block;
+    
+    height: 170px;
+    border-radius: 50%;
+}
+
+span#intro{
+    background-color:#27303b;
+    color: white;
+    float: right;
+    width: 80%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+h5.skill{
+    background-color: rgb(161, 161, 161);
+    color: white;
+}
+
+div.leftside{
+    display:inline-block;
+    width: 18%;
+}
+
+div.rightside{
+    display: block;
+    float: right ;
+    width: 80%;
+}
+
+div.content{
+    display: inline;
+}
+h3{
+    text:rgba(127,255,255,0.4);
+}
